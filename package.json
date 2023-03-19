@@ -16,7 +16,7 @@
   "author": "Shivam <hi@creativeshi.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ShivamJoker/react-native-quick-crypto.git"
+    "url": "https://github.com/ShivamJoker/react-native-quick-aws4.git"
   },
   "license": "MIT",
   "dependencies": {
