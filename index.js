@@ -439,7 +439,7 @@ function hmac(key, msg) {
  */
 function hash(content) {
   // @ts-ignore
-  return crypto.createHash("sha256").update(content, "utf8").digest("hex");
+  return crypto.createHash("sha256").update(content, "utf8").digest();
 }
 
 /**
